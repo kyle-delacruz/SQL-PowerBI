@@ -12,6 +12,6 @@ Filter by year, product category, subcategory, product name, and customer city f
 
   Mapped sales by customer city across the United States, Mexico, Cuba, Haiti, Puerto Rico, and Guatemala to uncover regional trends.
 
-  Added interactive slicers for year, category, subcategory, product, and city—empowering stakeholders to customize their view on the fly.
+  Added interactive slicers for year, category, subcategory, product, and city.
 
   Included drill-through tables detailing month-by-month breakdowns for individual customers and products, supporting targeted follow-up and strategy refinement.
