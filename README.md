@@ -1,0 +1,1 @@
+This repository showcases my SQL and Power BI analytics projects, including ETL pipelines, relational data modeling, KPI dashboards, and real-world business problem solving. The goal is to demonstrate how I work end-to-end with data: extracting, cleaning, modeling, analyzing, and visualizing insights that drive decisions.
